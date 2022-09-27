@@ -2,4 +2,4 @@
 
 This repo has the instructions to create the ftp server running in the rpi in the office.
 
-Instructions here: https://phoenixnap.com/kb/raspberry-pi-ftp-server
+Instructions here: https://phoenixnap.com/kb/raspberry-pi-ftp-server (check PDF file if website not available)
